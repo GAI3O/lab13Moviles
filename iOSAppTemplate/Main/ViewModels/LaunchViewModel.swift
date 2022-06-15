@@ -1,9 +1,4 @@
-//
-//  LaunchViewModel.swift
-//  iOSAppTemplate
-//
-//  Created by Gabriel on 10/06/22.
-//
+
 
 import Foundation
 
